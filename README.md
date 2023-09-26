@@ -7,7 +7,7 @@ Shorts Summary é uma aplicação web desenvolvida para criar resumos de vídeos
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-recursos principais">Recursos principais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
+  <a href="#-recursosprincipais">Recursos principais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
