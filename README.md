@@ -47,8 +47,6 @@ Para utilizá-lo, basta copiar o link do vídeo do Youtube Shorts de sua prefer�
 Este projeto foi desenvolvido na trilha Foundations, edição NLW IA da Rocketseat
 </p>
 
-- [Acesse o projeto finalizado, online](https://bernardosa01.github.io/ShortsSummary/)
-
 ## 💻 Recursos Principais
 
 - Resumos automáticos: A aplicação utiliza IA para criar resumos automáticos de vídeos curtos do YouTube em formato de texto.
