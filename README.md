@@ -19,7 +19,7 @@ Shorts Summary é uma aplicação web desenvolvida para criar resumos de vídeos
 <br>
 
 <p align="center">
-  <img alt="projeto ShortsSummary" src=".github/preview.jpg" width="100%">
+  <img alt="projeto ShortsSummary" src="./nlwia/.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
